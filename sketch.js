@@ -55,7 +55,7 @@ function setup() {
   mario.addAnimation("marioanim", marioAnim);
   mario.addAnimation("mariostop", marioStop);
   mario.scale = 1.5;
-  mario.debug = true;
+  //mario.debug = true;
   mario.setCollider("rectangle", 0, 0, 20, mario.height)
 
 
